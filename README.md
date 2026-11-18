@@ -41,9 +41,3 @@ npm start
 ```
 
 Demo login: `Inthusha` / `123`
-
-## Future Improvements
-
-- Confirm-password validation and duplicate-username check
-- Backend with database and hashed passwords
-- Protected routes
