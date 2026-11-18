@@ -5,6 +5,7 @@ A simple authentication UI built with **React**, **React Router** and **Tailwind
 > Learning project: users are stored in React state only and reset on page refresh.
 
 ## Live demo link 
+https://react-login-signup-app-1hun.vercel.app/
 
 ## Features
 
