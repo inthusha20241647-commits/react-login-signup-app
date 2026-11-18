@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
 import ReactDOM from 'react-dom/client';
-import {Routes, Route, BrowserRouter,Link} from 'react-router-dom';
+import {Routes, Route, BrowserRouter} from 'react-router-dom';
 import Login  from './Login';
 import SignUp from './SignUp';
 import  './index.css'
